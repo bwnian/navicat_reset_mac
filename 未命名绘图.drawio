@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1821" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="114" pageHeight="114" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1821" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="192" pageHeight="114" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5vZf-ywyJkKzydXX6hku-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=light-dark(#3399FF,#EDEDED);" edge="1" parent="1" source="4" target="5vZf-ywyJkKzydXX6hku-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="申请" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="4" value="提交申请" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="53" y="221" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vZf-ywyJkKzydXX6hku-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="5vZf-ywyJkKzydXX6hku-97" target="5vZf-ywyJkKzydXX6hku-98">
@@ -36,7 +36,7 @@
         <mxCell id="5vZf-ywyJkKzydXX6hku-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="5vZf-ywyJkKzydXX6hku-99" target="5vZf-ywyJkKzydXX6hku-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vZf-ywyJkKzydXX6hku-99" value="委员初审" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="5vZf-ywyJkKzydXX6hku-99" value="IACUC委员初审" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="583" y="221" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vZf-ywyJkKzydXX6hku-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="5vZf-ywyJkKzydXX6hku-100">
@@ -53,7 +53,12 @@
         <mxCell id="5vZf-ywyJkKzydXX6hku-101" value="兽医审核" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="936" y="221" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vZf-ywyJkKzydXX6hku-102" value="完结" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="5vZf-ywyJkKzydXX6hku-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="5vZf-ywyJkKzydXX6hku-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vZf-ywyJkKzydXX6hku-102" value="IACUC主任审核" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1113" y="221" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vZf-ywyJkKzydXX6hku-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="5vZf-ywyJkKzydXX6hku-103" target="5vZf-ywyJkKzydXX6hku-104">
@@ -65,7 +70,7 @@
         <mxCell id="5vZf-ywyJkKzydXX6hku-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1" source="5vZf-ywyJkKzydXX6hku-104" target="5vZf-ywyJkKzydXX6hku-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vZf-ywyJkKzydXX6hku-104" value="委员复审" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="5vZf-ywyJkKzydXX6hku-104" value="IACUC委员复审" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="760" y="353" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vZf-ywyJkKzydXX6hku-109" value="返修" style="text;spacingTop=-5;align=center;fontSize=19;fontColor=light-dark(#920707, #ededed);" vertex="1" parent="1">
@@ -73,6 +78,9 @@
         </mxCell>
         <mxCell id="5vZf-ywyJkKzydXX6hku-126" value="返修" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;strokeWidth=2;fontColor=light-dark(#920707, #ededed);" vertex="1" parent="1">
           <mxGeometry x="563" y="293" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5vZf-ywyJkKzydXX6hku-132" value="完结" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;strokeWidth=3;fillColor=#cce5ff;fontSize=18;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1273" y="221" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
